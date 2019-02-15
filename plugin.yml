@@ -1,0 +1,7 @@
+main: me.yuuma.plugin.IngredientRpg
+name: IngredientRpg
+version: 1.0
+author: Porror
+commands:
+  Ig:
+    description: none
